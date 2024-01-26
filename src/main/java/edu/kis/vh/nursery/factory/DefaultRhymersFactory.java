@@ -28,3 +28,5 @@ public class DefaultRhymersFactory implements Rhymersfactory {
 	}
 
 }
+
+// Alt + -> pozwala na przełączanie się między otwartymi plikami
